@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Griessemer
-- 👀 I’m interested in coding with python
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python
+- 👋 Hi, I’m @Griessemer, I´m an Mechanical-Engineer trying a career change to Coding
+- 👀 I’m interested in coding with c, python
+- 🌱 I’m currently learning c, python
+- 💞️ I’m looking to collaborate on c, python
 - 📫 How to reach me ...
 
 <!---
